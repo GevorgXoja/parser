@@ -1,0 +1,398 @@
+[
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1655042482,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "engineer",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1654594844,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ym_isad",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1716904791.300603,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "is_gdpr_b",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "CMrGBxDYdSgC"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1716904791.300592,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "is_gdpr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1654524646,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ym_visorc",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "b"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1657114846.495908,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_yasc",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "Lp05BS66SIQujBJMN9nII+tFmOKEFOJbGobD3ZZK/QCzuQ7XY7MXvLh/3nTyHSGk"
+    },
+    {
+        "domain": ".yandex.ru",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ys",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "udn.cDppLW9rbmEyMDIw#wprid.1654522849698489-7105666731354891321-vla1-4519-vla-l7-balancer-8080-BAL-2340"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1749119694.407279,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "yandex_gid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "213"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1969882845.054874,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "my",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "YwA="
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1686058842,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ym_d",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1654522843"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1686058849,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "gdpr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1686058842,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ym_uid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "15791042271053791913"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1655402762,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "Bismuth",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1655732445,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "computer",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1717580854.484308,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "i",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "r5TzKR+8+fhvQW18vM7gke81HzbKbK9r+SMAcAWFniRXbZtYSmahxLIqUYMMUS5gUfR/015t58zHe2TKag714jEQj1w="
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 2147483646.641243,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "L",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "QBNYYHByd0JScQoFA0RFUkB/cHJaTlIIPVRaBSM5R2pYQA==.1654502484.15000.393651.f2a112b93cb6d914025cc4b95b0e136f"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1748440792.669898,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "mda",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "0"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 2147483646.641134,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "Session_id",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "3:1654502484.5.0.1654502484516:f-BIuQ:2f.1.2:1|1168059347.0.2|3:253425.651912.LBWyIY31lrsV47q30rTaM-su_XI"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 2147483646.641178,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sessionid2",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "3:1654502484.5.0.1654502484516:f-BIuQ:2f.1.2:1.499:1|1168059347.0.2|3:253425.729906.C0Qlq-wTioCoY6RIbbH0K27U2ws"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1655570600,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "Silicon",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1657114849,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "spravka",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "dD0xNjU0NTIyODQ5O2k9MTg1LjcyLjIyNC4xMjc7RD04MDhCNDJDNjUyNkQwQzZBMjVBQTA0NUNGNkEyRTBBOTMwNjdCMTQ3Qjk0OTEyNDgxNUI4REQ5NjVGQjQ5MjU1MzE4ODkwOTg7dT0xNjU0NTIyODQ5NjM5NDUyMjA0O2g9Zjc0YjYwMTZlYjRmYzAxOGJiNGE2N2MzNDEzNTQ3YmU="
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1655732445,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "Tennessine",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1654526449.704829,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "yabs-frequency",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "/5/300103B_dM8tpPrY/NEBAl1tHoLJiHYEz3_mZ3qdfUUn68-wCbVwXp9Lax4P3rhWDDgwQt5piHY6hd0ml5j0LIkn6O_1Zk3nQjSnbx4OXjPHRF5jnOrpiHYCYxKy43AJ6Rkn68zbLPKc6iZTdv4OdI4harDzWfM3aHYC6hg0kz6G5J-z6Om00_m00/"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1686038483.641256,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "yandex_login",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "i-okna2020"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1969876428.240852,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "yandexuid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "4704093801579102138"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1685368792.500496,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ymex",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1969192792.yrts.1653832792#1969192792.yrtsi.1653832792"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 2145906000,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "yp",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1686047695.ygu.1#1670290846.szm.1_25:1536x864:1536x656#1656511289.csc.2#1657114850.los.1#1657114850.losc.0#1686058850.p_sw.1654522849#1969862484.udn.cDppLW9rbmEyMDIw#1655113651.mcv.0#1655113651.mcl.34ytu2"
+    },
+    {
+        "domain": ".yandex.ru",
+        "expirationDate": 1969192792.635281,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "yuidss",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "4704093801579102138"
+    }
+]
+
+device-memory
+8
+dpr
+1.25
+viewport-width
+1229
+rtt
+0
+downlink
+10
+ect
+4g
+sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+Upgrade-Insecure-Requests
+1
+User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
+Accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site
+same-origin
+Sec-Fetch-Mode
+navigate
+Sec-Fetch-User
+?1
+Sec-Fetch-Dest
+document
